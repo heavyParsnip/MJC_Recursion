@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\bin\Debug\MJC_Recursion.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\bin\Debug\MJC_Recursion.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\bin\Debug\MJC_Recursion.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\obj\Debug\MJC_Recursion.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\obj\Debug\MJC_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\obj\Debug\MJC_Recursion.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Recursion\MJC_Recursion\obj\Debug\MJC_Recursion.pdb
